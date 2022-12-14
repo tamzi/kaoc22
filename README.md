@@ -1,2 +1,2 @@
-# -kaoc
-Kotlin implementation of the Advent Of Code challenges
+# kaoc22
+Kotlin implementation of the Advent Of Code challenges for 2022
